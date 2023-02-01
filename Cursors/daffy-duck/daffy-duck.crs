@@ -1,0 +1,45 @@
+﻿[Arrow]
+Path=Daffy Normal.ani
+
+[Help]
+Path=Daffy Help.ani
+
+[AppStarting]
+Path=Daffy Working.ani
+
+[Wait]
+Path=Daffy Busy.ani
+
+[Crosshair]
+Path=Daffy Precision.cur
+
+[IBeam]
+Path=Daffy Text.ani
+
+[NWPen]
+Path=Daffy Handwriting.ani
+
+[No]
+Path=Daffy Unavaible.ani
+
+[SizeNS]
+Path=Daffy Vertical.ani
+
+[SizeWE]
+Path=Daffy Horizontal.ani
+
+[SizeNWSE]
+Path=Daffy Diagonal 1.ani
+
+[SizeNESW]
+Path=Daffy Diagonal 2.ani
+
+[SizeAll]
+Path=Daffy Move.ani
+
+[UpArrow]
+Path=Daffy Alternate.cur
+
+[Hand]
+Path=Daffy Link.ani
+

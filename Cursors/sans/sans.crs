@@ -1,0 +1,45 @@
+﻿[Arrow]
+Path=Sans Normal.ani
+
+[Help]
+Path=Sans Help.ani
+
+[AppStarting]
+Path=Sans Working.ani
+
+[Wait]
+Path=Sans Busy.ani
+
+[Crosshair]
+Path=Sans Precision.cur
+
+[IBeam]
+Path=Sans Text.ani
+
+[NWPen]
+Path=Sans Handwriting.cur
+
+[No]
+Path=Sans Unavaible.cur
+
+[SizeNS]
+Path=Sans Vertical.cur
+
+[SizeWE]
+Path=Sans Horizontal.cur
+
+[SizeNWSE]
+Path=Sans Diagonal 1.cur
+
+[SizeNESW]
+Path=Sans Diagonal 2.cur
+
+[SizeAll]
+Path=Sans Move.ani
+
+[UpArrow]
+Path=Sans Alternate.cur
+
+[Hand]
+Path=Sans Link.cur
+

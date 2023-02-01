@@ -1,0 +1,45 @@
+﻿[Arrow]
+Path=Shovel Knight Normal.ani
+
+[Help]
+Path=King Knight Help.ani
+
+[AppStarting]
+Path=Shovel Knight Working.ani
+
+[Wait]
+Path=King Knight Busy.ani
+
+[Crosshair]
+Path=King Knight Precision.cur
+
+[IBeam]
+Path=Shovel Knight Text.cur
+
+[NWPen]
+Path=Shovel Knight Handwriting.cur
+
+[No]
+Path=Shovel Knight Unavaible.cur
+
+[SizeNS]
+Path=Shovel Knight Vertical.ani
+
+[SizeWE]
+Path=Shovel Knight Horizontal.ani
+
+[SizeNWSE]
+Path=Shovel Knight Diagonal 1.cur
+
+[SizeNESW]
+Path=Shovel Knight Diagonal 2.cur
+
+[SizeAll]
+Path=Shovel Knight Move.cur
+
+[UpArrow]
+Path=Shovel Knight Alternate.cur
+
+[Hand]
+Path=Shovel Knight Link.ani
+

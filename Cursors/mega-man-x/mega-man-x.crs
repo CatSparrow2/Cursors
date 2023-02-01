@@ -1,0 +1,45 @@
+﻿[Arrow]
+Path=Mega Man Normal.ani
+
+[Help]
+Path=Mega Man Help.ani
+
+[AppStarting]
+Path=Mega Man Working.ani
+
+[Wait]
+Path=Mega Man Busy.ani
+
+[Crosshair]
+Path=Mega Man Precision.cur
+
+[IBeam]
+Path=Mega Man Text.ani
+
+[NWPen]
+Path=Mega Man Handwriiting.cur
+
+[No]
+Path=Mega Man Unavaible.ani
+
+[SizeNS]
+Path=Mega Man Vertical.cur
+
+[SizeWE]
+Path=Mega Man Horizontal.ani
+
+[SizeNWSE]
+Path=Mega Man Diagonal 1.cur
+
+[SizeNESW]
+Path=Mega Man Diagonal 2.cur
+
+[SizeAll]
+Path=Mega Man Move.ani
+
+[UpArrow]
+Path=Mega Man Alternate.cur
+
+[Hand]
+Path=Mega Man Link.ani
+

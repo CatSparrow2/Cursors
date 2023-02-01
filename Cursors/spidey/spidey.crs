@@ -1,0 +1,48 @@
+﻿[Arrow]
+Path=Spidey Normal.ani
+
+[Help]
+Path=Spidey Help.cur
+
+[AppStarting]
+Path=Spidey Working.ani
+
+[Wait]
+Path=Spidey Busy.ani
+
+[Crosshair]
+Path=Spidey Precision.ani
+
+[IBeam]
+Path=Spidey Text.ani
+
+[NWPen]
+Path=Spidey Handwriting.cur
+
+[No]
+Path=Spidey Unavaible.cur
+
+[SizeNS]
+Path=Spidey Vertical.cur
+
+[SizeWE]
+Path=Spidey Horizontal.cur
+
+[SizeNWSE]
+Path=Spidey Diagonal 1.cur
+
+[SizeNESW]
+Path=Spidey Diagonal 2.cur
+
+[SizeAll]
+Path=Spidey Move.ani
+
+[Hand]
+Path=Spidey Link.ani
+
+[Pin]
+Path=Spidey Location.cur
+
+[Person]
+Path=Spidey Person.cur
+

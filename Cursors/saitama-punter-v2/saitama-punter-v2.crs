@@ -1,0 +1,45 @@
+﻿[Arrow]
+Path=Saitama Normal.ani
+
+[Help]
+Path=Saitama Help.cur
+
+[AppStarting]
+Path=Saitama Working.ani
+
+[Wait]
+Path=Saitama Busy.ani
+
+[Crosshair]
+Path=Saitama Precision.cur
+
+[IBeam]
+Path=Saitama Text.ani
+
+[NWPen]
+Path=Saitama Handwriting.cur
+
+[No]
+Path=Saitama Unavaible.cur
+
+[SizeNS]
+Path=Saitama Vertical.cur
+
+[SizeWE]
+Path=Saitama Horizontal.ani
+
+[SizeNWSE]
+Path=Saitama Diagonal 1.ani
+
+[SizeNESW]
+Path=Saitama Diagonal 2.ani
+
+[SizeAll]
+Path=Saitama Move.cur
+
+[UpArrow]
+Path=Saitama Alternate.ani
+
+[Hand]
+Path=Saitama Link.ani
+

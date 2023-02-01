@@ -1,0 +1,45 @@
+﻿[Wait]
+Path=Yugi Moto Busy.ani
+
+[Crosshair]
+Path=Yugi Moto Precision.cur
+
+[IBeam]
+Path=Yugi Moto Text.ani
+
+[NWPen]
+Path=Yugi Moto Handwriting.cur
+
+[No]
+Path=Yugi Moto Unavaible.cur
+
+[SizeNS]
+Path=Yugi Moto Vertical.ani
+
+[SizeWE]
+Path=Yugi Moto Horizontal.ani
+
+[Arrow]
+Path=Yugi Moto Normal.ani
+
+[Help]
+Path=Yugi Moto Help.ani
+
+[AppStarting]
+Path=Yugi Moto Working.ani
+
+[SizeNWSE]
+Path=Yugi Moto Diagonal 1.ani
+
+[SizeNESW]
+Path=Yugi Moto Diagonal 2.ani
+
+[SizeAll]
+Path=Yugi Moto Move.ani
+
+[UpArrow]
+Path=Yugi Moto Alternate.cur
+
+[Hand]
+Path=Yugi Moto Link.ani
+

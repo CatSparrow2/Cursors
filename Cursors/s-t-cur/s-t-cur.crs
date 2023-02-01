@@ -1,0 +1,39 @@
+﻿[Arrow]
+Path=Sonic & Tails.ani
+
+[Hand]
+Path=Sonic & Tails Select.ani
+
+[SizeWE]
+Path=Sonic & Tails Hor.ani
+
+[SizeNS]
+Path=Sonic & Tails Ver.ani
+
+[Help]
+Path=Sonic & Tails Help Select.ani
+
+[Pin]
+Path=Sonic&TailsLocationSelect1.ani
+
+[Person]
+Path=Sonic & Tails Person Select.ani
+
+[SizeNESW]
+Path=Sonic & Tails Diag2.ani
+
+[SizeNWSE]
+Path=Sonic & Tails Diag1.ani
+
+[NWPen]
+Path=Sonic Handwriting.cur
+
+[IBeam]
+Path=Sonic & Tails Text.ani
+
+[No]
+Path=Sonic Unavaible.cur
+
+[SizeAll]
+Path=Sonic Move.cur
+

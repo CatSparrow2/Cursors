@@ -1,0 +1,51 @@
+﻿[Arrow]
+Path=Zoro Normal.ani
+
+[Help]
+Path=Zoro Help.ani
+
+[AppStarting]
+Path=Zoro Working.ani
+
+[Wait]
+Path=Zoro Busy.ani
+
+[Crosshair]
+Path=Zoro Precision.cur
+
+[IBeam]
+Path=Zoro Text.ani
+
+[NWPen]
+Path=Zoro Handwriting.cur
+
+[No]
+Path=Zoro Unavaible.cur
+
+[SizeNS]
+Path=Zoro Vertical.ani
+
+[SizeWE]
+Path=Zoro Horizontal.cur
+
+[SizeNWSE]
+Path=Zoro Diagonal 1.ani
+
+[SizeNESW]
+Path=Zoro Diagonal 2.ani
+
+[SizeAll]
+Path=Zoro Move.ani
+
+[UpArrow]
+Path=Zoro Alternate.cur
+
+[Hand]
+Path=Zoro Link.ani
+
+[Pin]
+Path=Zoro Location.cur
+
+[Person]
+Path=Zoro Person.cur
+

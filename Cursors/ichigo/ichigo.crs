@@ -1,0 +1,45 @@
+﻿[Arrow]
+Path=Ichigo Normal.ani
+
+[Help]
+Path=Ichigo Help.cur
+
+[AppStarting]
+Path=Ichigo Working.ani
+
+[Wait]
+Path=Ichigo Busy.ani
+
+[Crosshair]
+Path=Ichigo Presicion.cur
+
+[IBeam]
+Path=Ichigo Text.ani
+
+[NWPen]
+Path=Ichigo Handwriting.cur
+
+[No]
+Path=Ichigo Unavaible.ani
+
+[SizeNS]
+Path=Ichigo Vertical.ani
+
+[SizeWE]
+Path=Ichigo Horizontal.cur
+
+[SizeNWSE]
+Path=Ichigo Diagonal 1.cur
+
+[SizeNESW]
+Path=Ichigo Diagonal 2.cur
+
+[SizeAll]
+Path=Ichigo Move.ani
+
+[UpArrow]
+Path=Ichigo Alternate.ani
+
+[Hand]
+Path=Ichigo Link.ani
+

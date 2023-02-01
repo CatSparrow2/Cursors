@@ -1,0 +1,45 @@
+﻿[Arrow]
+Path=Goku Normal.ani
+
+[Help]
+Path=Goku Help.ani
+
+[AppStarting]
+Path=Goku Working.ani
+
+[Wait]
+Path=Goku Busy.ani
+
+[Crosshair]
+Path=Goku Precision.ani
+
+[IBeam]
+Path=Goku Text.cur
+
+[NWPen]
+Path=Goku Handwriting.cur
+
+[No]
+Path=Goku Unavaible.cur
+
+[SizeNS]
+Path=Goku Vertical.ani
+
+[SizeWE]
+Path=Goku Horizontal.cur
+
+[SizeNWSE]
+Path=Goku Diagonal 1.ani
+
+[SizeNESW]
+Path=Goku Diagonal 2.ani
+
+[SizeAll]
+Path=Goku Move.ani
+
+[UpArrow]
+Path=Goku Alternate.cur
+
+[Hand]
+Path=Goku Link.ani
+

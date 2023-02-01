@@ -1,0 +1,45 @@
+﻿[Arrow]
+Path=Link Normal.ani
+
+[Help]
+Path=Link Help.cur
+
+[AppStarting]
+Path=Link Working.ani
+
+[Wait]
+Path=Link Busy.ani
+
+[Crosshair]
+Path=Link Presicion.cur
+
+[IBeam]
+Path=Link Text.ani
+
+[NWPen]
+Path=Link Handwriting.cur
+
+[No]
+Path=Link Unavaible.cur
+
+[SizeNS]
+Path=Link Vertical.ani
+
+[SizeNWSE]
+Path=Link Diagonal 1.ani
+
+[SizeNESW]
+Path=Link Diagonal 2.ani
+
+[SizeAll]
+Path=Link Move.ani
+
+[UpArrow]
+Path=Link Alternate.cur
+
+[Hand]
+Path=Link Link.ani
+
+[SizeWE]
+Path=Link Horizontal.cur
+

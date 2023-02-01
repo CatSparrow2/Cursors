@@ -1,0 +1,45 @@
+﻿[Arrow]
+Path=Dio Normal.ani
+
+[Help]
+Path=Dio Help.ani
+
+[AppStarting]
+Path=Dio Working.ani
+
+[Wait]
+Path=Dio Busy.ani
+
+[Crosshair]
+Path=Dio Precision.cur
+
+[IBeam]
+Path=Dio Text.ani
+
+[NWPen]
+Path=Dio Handwriting.cur
+
+[No]
+Path=Dio Unavaible.cur
+
+[SizeNS]
+Path=Dio Vertical.ani
+
+[SizeWE]
+Path=Dio Horizontal.ani
+
+[SizeNWSE]
+Path=Dio Diagonal 1.cur
+
+[SizeNESW]
+Path=Dio Diagonal 2.cur
+
+[SizeAll]
+Path=Dio Move.ani
+
+[UpArrow]
+Path=Dio Alternate.cur
+
+[Hand]
+Path=Dio Link.ani
+

@@ -1,0 +1,45 @@
+﻿[Arrow]
+Path=Bugs Normal.ani
+
+[Help]
+Path=Bugs Help.ani
+
+[AppStarting]
+Path=Bugs Working.ani
+
+[Wait]
+Path=Bugs Busy.ani
+
+[Crosshair]
+Path=Bugs Precision.cur
+
+[IBeam]
+Path=Bugs Text.ani
+
+[NWPen]
+Path=Bugs Handwriting.cur
+
+[No]
+Path=Bugs Unavaible.cur
+
+[SizeNS]
+Path=Bugs Vertical.cur
+
+[SizeWE]
+Path=Bugs Horizontal.ani
+
+[SizeNWSE]
+Path=Bugs Diagonal 1.cur
+
+[SizeNESW]
+Path=Bugs Diagonal 2.cur
+
+[SizeAll]
+Path=Bugs Move.ani
+
+[UpArrow]
+Path=Bugs Alternate.cur
+
+[Hand]
+Path=Bugs Link.ani
+

@@ -1,0 +1,51 @@
+﻿[Arrow]
+Path=Cuphead Normal v2.ani
+
+[Help]
+Path=Cuphead Help.ani
+
+[AppStarting]
+Path=Cuphead Working.ani
+
+[Wait]
+Path=Cuphead Busy.ani
+
+[Crosshair]
+Path=Cuphead Precision.cur
+
+[IBeam]
+Path=Cuphead Text.ani
+
+[NWPen]
+Path=Cuphead Handwriting.ani
+
+[No]
+Path=Cuphead Unavaible.ani
+
+[SizeNS]
+Path=Cuphead Vertical.ani
+
+[SizeWE]
+Path=Cuphead Horizontal.ani
+
+[SizeNWSE]
+Path=Cuphead Diagonal 1.ani
+
+[SizeNESW]
+Path=Cuphead Diagonal 2.ani
+
+[SizeAll]
+Path=Cuphead Move.ani
+
+[UpArrow]
+Path=Cuphead Alternate.ani
+
+[Hand]
+Path=Cuphead Link.ani
+
+[Pin]
+Path=Cuphead Location.ani
+
+[Person]
+Path=Cuphead Person.ani
+
